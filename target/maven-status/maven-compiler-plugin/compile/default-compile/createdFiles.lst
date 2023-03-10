@@ -1,0 +1,15 @@
+com\loyalty\pkg\models\Account.class
+com\loyalty\pkg\controller\RegisterController.class
+com\loyalty\pkg\config\AuthController.class
+com\loyalty\pkg\helpers\Token.class
+com\loyalty\pkg\config\AppController.class
+com\loyalty\pkg\helpers\HTML.class
+com\loyalty\pkg\controller\IndexController.class
+com\loyalty\pkg\config\MailConfig.class
+com\loyalty\pkg\controller_advisor\AdvisorController.class
+com\loyalty\pkg\models\User.class
+com\loyalty\pkg\repository\AccountRepository.class
+com\loyalty\pkg\config\AppConfig.class
+com\loyalty\pkg\repository\UserRepository.class
+com\loyalty\pkg\CustomerLoyaltyV1Application.class
+com\loyalty\pkg\mailMessenger\MailMessenger.class
